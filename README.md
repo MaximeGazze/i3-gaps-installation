@@ -1,4 +1,4 @@
-# i3-i3-gaps-installation
+# i3-gaps-installation
 
 **First, lets update the system :**
 
